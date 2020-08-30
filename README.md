@@ -11,7 +11,7 @@ Wikipedia: https://en.wikipedia.org/wiki/HTML
 
 Color
 Black color: #000
-Orange color highlight:
+Orange color highlight: #e76732
 Orange color shadow: #e44d26
 White color highlight: #fff
 White color shadow: #ebebeb
